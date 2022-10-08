@@ -2,7 +2,7 @@
 
 Here is my first GitHub repository. Let's get started with GitHub
 
-This file has been modified locally for a resolution
+I want neither!!
 
 New line was added locally
 
